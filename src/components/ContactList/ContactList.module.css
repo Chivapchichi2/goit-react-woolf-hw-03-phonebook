@@ -1,0 +1,12 @@
+.contactList {
+  list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.letter {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
